@@ -1,10 +1,3 @@
-	/*
- * PI_control.c
- *
- * Created: 5/10/2023 1:13:59 pm
- *  Author: Vsan396
- */ 
-
 #include "PI_control.h"
 #include <stdint.h>
 #include <avr/io.h>
