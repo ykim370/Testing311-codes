@@ -33,3 +33,6 @@ int uart_extract_digits(int value){
 int uart_convert_digits(int digit){
 	return digit + 48;
 }
+int uart_convert_digits(int digit){
+	return digit + 48;
+}
