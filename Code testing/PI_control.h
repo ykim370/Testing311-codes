@@ -1,11 +1,7 @@
 /*
  * PI_control.h
- *
- * Created: 5/10/2023 1:11:42 pm
- *  Author: Vsan396
+
  */ 
-
-
 #ifndef PI_CONTROL_H_
 #define PI_CONTROL_H_
 #include <stdint.h>
