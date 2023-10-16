@@ -1,9 +1,4 @@
-/*
- * adc.h
- *
- * Created: 4/10/2023 3:34:52 pm
- *  Author: vsan396
- */ 
+//adc.h
 
 
 #ifndef ADC_H_
