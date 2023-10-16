@@ -2,7 +2,7 @@
 #define UART_H
 #include <stdint.h>
 
-void UART_init_inturpt(uint32_t BAUD_RATE);
+void UART_init(void);
 void uart_transmit_byte(char byte);
 void uart_transmit_array(char* msg);
 int uart_extract_digits(int value);
