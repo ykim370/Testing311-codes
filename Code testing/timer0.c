@@ -1,9 +1,5 @@
-/*
- * timer1.c
- *
- * Created: 4/10/2023 3:30:41 pm
- *  Author: vsan396
- */ 
+//timer1.c
+
 
 #include "timer0.h"
 #include <avr/io.h>
@@ -28,4 +24,5 @@ void tc0_init_FPWM_100k()
 	//OCR1A = 140; // initialize to 50% duty cycle
 	//DDRB |= 1<<PINB1;
 //}
+
 
