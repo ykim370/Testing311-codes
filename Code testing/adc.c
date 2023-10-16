@@ -1,8 +1,6 @@
 /*
  * adc.c
- *
- * Created: 4/10/2023 3:34:38 pm
- *  Author: vsan396
+
  */ 
 
 
